@@ -9,3 +9,4 @@ Vemte v úvahu, že funkce Math.random generuje náhodná čísla mezi 0 (včetn
 Je tedy malinká pravěpodobnost, že občas padne přesně číslo 0. 
 Naopak číslo 1 padnout nemůže. */
 
+//aka je klaves skratka na prechod na koniec riadku v terminali alebo na zaciatok

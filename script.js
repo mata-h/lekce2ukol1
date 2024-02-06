@@ -10,3 +10,9 @@ Je tedy malinká pravěpodobnost, že občas padne přesně číslo 0.
 Naopak číslo 1 padnout nemůže. */
 
 //aka je klaves skratka na prechod na koniec riadku v terminali alebo na zaciatok
+
+const nahodneCislo = Math.random()
+
+document.body.innerHTML += nahodneCislo
+
+console.log (Math.floor(3.8))

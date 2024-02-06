@@ -13,6 +13,10 @@ Naopak číslo 1 padnout nemůže. */
 
 const nahodneCislo = Math.random()
 
-document.body.innerHTML += nahodneCislo
+const hodKockou = Math.floor(nahodneCislo * 10)
+
+document.body.innerHTML += hodKockou
+if hodKockou = 0
 
 console.log (Math.floor(3.8))
+
